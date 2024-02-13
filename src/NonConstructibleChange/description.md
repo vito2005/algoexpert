@@ -17,3 +17,5 @@
   Sample Output
 
   20
+
+  video explanation - https://youtu.be/uN0p5hltUTM
